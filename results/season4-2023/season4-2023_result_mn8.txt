@@ -1,0 +1,36 @@
+10 Pair calculation
+Checked  combinations: 36240
+Possible combinations: 0
+
+             Aurelia    Carina  Caroline     Dorna     Henna  Juliette   Larissa  Stefanie   Valeria   Vanessa
+    Barkin       X         X         X         X         X         X         X         X         X         X  
+     Burim       X        NM         X        NM         X         X         X         X         X         X  
+Chrisopher       X         X         X         X         X         X         X        PM         X         X  
+     Deniz       X         X         X         X         X         X         X         X         X         X  
+      Joel       X         X         X         X         X        NM         X         X         X         X  
+   Kenneth       X         X         X        NM         X         X         X         X         X         X  
+       Ken       X         X        PM         X         X         X         X         X         X         X  
+    Pascal       X         X         X         X         X         X         X         X         X         X  
+      Sasa       X         X         X         X         X         X         X         X         X         X  
+    Marwin       X         X         X        NM         X         X         X         X        NM         X  
+Maximilian       X         X         X         X         X         X         X         X        NM         X  
+
+
+11 Pair calculation
+Checked  combinations: 261252
+Possible combinations: 0
+
+             Aurelia    Carina  Caroline     Dorna     Henna  Juliette   Larissa  Stefanie   Valeria   Vanessa
+    Barkin       X         X         X         X         X         X         X         X         X         X  
+     Burim       X        NM         X        NM         X         X         X         X         X         X  
+Chrisopher       X         X         X         X         X         X         X        PM         X         X  
+     Deniz       X         X         X         X         X         X         X         X         X         X  
+      Joel       X         X         X         X         X        NM         X         X         X         X  
+   Kenneth       X         X         X        NM         X         X         X         X         X         X  
+       Ken       X         X        PM         X         X         X         X         X         X         X  
+    Pascal       X         X         X         X         X         X         X         X         X         X  
+      Sasa       X         X         X         X         X         X         X         X         X         X  
+    Marwin       X         X         X        NM         X         X         X         X        NM         X  
+Maximilian       X         X         X         X         X         X         X         X        NM         X  
+
+
